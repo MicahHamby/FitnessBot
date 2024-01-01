@@ -14,7 +14,7 @@ const action = async (body) => {
   // May do something here with body
   // Body contains Discord command details
   let response = {
-    "content": "posts the weekly update which includes workout totals, missed days, fund contribution"
+    "content": "posts the end of week update which includes workout totals, missed days, fund contribution"
   }
   return response
 }

@@ -14,7 +14,7 @@ const action = async (body) => {
   // May do something here with body
   // Body contains Discord command details
   let response = {
-    "content": "preforms check against db to ensure people worked out"
+    "content": "preforms check against workout log db to ensure people worked out"
   }
   return response
 }
